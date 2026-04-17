@@ -1,0 +1,58 @@
+{
+  "common": {
+    "reserve": "Réserver maintenant",
+    "getBundle": "Obtenir l'ensemble",
+    "reserveSpot": "Réserver ma place",
+    "language": "FR",
+    "currency": "CAD",
+    "spotsRemaining": "Plus que {{count}} places sur 250",
+    "footer": {
+      "brand": "Astrateq Gadgets",
+      "navigation": "Navigation",
+      "resources": "Ressources",
+      "legal": "Juridique",
+      "disclaimer": "Les systèmes d'IA ont des limites. Les résultats peuvent varier selon les facteurs environnementaux.",
+      "pipeda": "Conforme à la LPRPDE",
+      "refundPolicy": "Politique de remboursement"
+    }
+  },
+  "hero": {
+    "title": "PROTÉGEZ VOS PARENTS SUR TOUTES LES ROUTES CANADIENNES.",
+    "subtitle": "Si vous ne pouvez pas être sur le siège passager, soyez au courant.",
+    "cta": "RÉSERVER LA PLACE DE MA FAMILLE"
+  },
+  "pricing": {
+    "title": "Ensemble Gardien",
+    "oneTime": "Paiement unique",
+    "features": {
+      "dashcam": "Caméra de tableau de bord intelligente",
+      "dashcamUpgraded": "Caméra de tableau de bord intelligente (Lentille améliorée)",
+      "subscription12": "12 mois d'abonnement Premium",
+      "subscription18": "18 mois d'abonnement Premium",
+      "subscriptionLifetime": "Abonnement Premium à vie",
+      "cloudStorage": "Stockage infonuagique pour clips d'incidents",
+      "cloudStorageUnlimited": "Stockage infonuagique illimité",
+      "cloudStorageShareable": "Stockage infonuagique et liens partageables",
+      "prioritySupport": "Support prioritaire",
+      "installationKit": "Trousse d'installation invisible",
+      "whiteGlove": "Service d'installation gants blancs",
+      "emergencyResponse": "Intervention d'urgence surveillée 24/7",
+      "driverCoaching": "Encadrement du comportement du conducteur sur demande",
+      "roadsideAssistance": "Assistance routière pancanadienne"
+    }
+  },
+  "funnel": {
+    "steps": {
+      "plan": "Sélection du plan",
+      "vehicle": "Infos véhicule",
+      "location": "Emplacement",
+      "contact": "Coordonnées",
+      "payment": "Paiement"
+    },
+    "summary": "Sommaire de la commande",
+    "deposit": "Dépôt remboursable",
+    "tax": "Taxe",
+    "total": "Total",
+    "securePayment": "Paiement SSL sécurisé"
+  }
+}

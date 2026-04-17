@@ -1,0 +1,58 @@
+{
+  "common": {
+    "reserve": "Reserve Now",
+    "getBundle": "Get the Bundle",
+    "reserveSpot": "Reserve My Spot",
+    "language": "EN",
+    "currency": "CAD",
+    "spotsRemaining": "Only {{count}} of 250 spots remaining",
+    "footer": {
+      "brand": "Astrateq Gadgets",
+      "navigation": "Navigation",
+      "resources": "Resources",
+      "legal": "Legal",
+      "disclaimer": "AI systems have limitations. Results may vary based on environmental factors.",
+      "pipeda": "PIPEDA Compliant",
+      "refundPolicy": "Refund Policy"
+    }
+  },
+  "hero": {
+    "title": "KEEP YOUR PARENTS SAFER ON EVERY CANADIAN ROAD.",
+    "subtitle": "If you can't be in the passenger seat, be in the loop.",
+    "cta": "RESERVE MY FAMILY'S SPOT"
+  },
+  "pricing": {
+    "title": "Guardian Bundle",
+    "oneTime": "One-Time Payment",
+    "features": {
+      "dashcam": "AI Smart Dashcam",
+      "dashcamUpgraded": "AI Smart Dashcam (Upgraded Lens)",
+      "subscription12": "12 Months Premium Subscription",
+      "subscription18": "18 Months Premium Subscription",
+      "subscriptionLifetime": "Lifetime Premium Subscription",
+      "cloudStorage": "Cloud Storage for Incident Clips",
+      "cloudStorageUnlimited": "Unlimited Cloud Storage",
+      "cloudStorageShareable": "Cloud Storage & Shareable Links",
+      "prioritySupport": "Priority Support",
+      "installationKit": "Invisible Protection Installation Kit",
+      "whiteGlove": "White-Glove Installation Service",
+      "emergencyResponse": "24/7 Monitored Emergency Response",
+      "driverCoaching": "On-Demand Driver Behavior Coaching",
+      "roadsideAssistance": "Canada-Wide Roadside Assistance"
+    }
+  },
+  "funnel": {
+    "steps": {
+      "plan": "Plan Selection",
+      "vehicle": "Vehicle Info",
+      "location": "Location",
+      "contact": "Contact Info",
+      "payment": "Payment"
+    },
+    "summary": "Order Summary",
+    "deposit": "Refundable Deposit",
+    "tax": "Tax",
+    "total": "Total",
+    "securePayment": "Secure SSL Payment"
+  }
+}
